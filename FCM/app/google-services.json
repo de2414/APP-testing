@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045468639356",
+    "firebase_url": "https://cokeman-94263.firebaseio.com",
+    "project_id": "cokeman-94263",
+    "storage_bucket": "cokeman-94263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045468639356:android:bdb17f948c2da2f9",
+        "android_client_info": {
+          "package_name": "com.example.frei.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045468639356-hbarb60d18r506572i9fkgekdc3lf3el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frei.fcm",
+            "certificate_hash": "82b01f1f1236fde1004c5e2cf098ff1bbea3fba9"
+          }
+        },
+        {
+          "client_id": "1045468639356-u913cd1bibbiskuej3n5l4r8r7i243mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYl8BT_juJAe_rgiKJEEH1UVZcaW6qFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045468639356-u913cd1bibbiskuej3n5l4r8r7i243mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

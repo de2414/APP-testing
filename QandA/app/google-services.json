@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304503592655",
+    "firebase_url": "https://qanda-626c6.firebaseio.com",
+    "project_id": "qanda-626c6",
+    "storage_bucket": "qanda-626c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304503592655:android:5e6b2e4a250b39cd",
+        "android_client_info": {
+          "package_name": "com.example.frei.qanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304503592655-0fl0c47inoimhrcchq878grbruhrqhp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frei.qanda",
+            "certificate_hash": "82b01f1f1236fde1004c5e2cf098ff1bbea3fba9"
+          }
+        },
+        {
+          "client_id": "304503592655-4u43eo2n794hjbpurpo12ftimqr2rd13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtiMoNp8BrfbGI_Xfp1ypFrBaJSawPmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304503592655-4u43eo2n794hjbpurpo12ftimqr2rd13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
